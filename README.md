@@ -32,6 +32,7 @@ We thank all the creators for their contributions!
 
 | Author | Repository / Link | Contributions |
 | :--- | :--- | :--- |
-| ExampleUser | [Link](https://github.com/example) | GBA Overlays |
+| SkyWalker541 | [Link](https://github.com/SkyWalker541/TrimUI-Brick-Overlays) | Brick Overlays |
+| KrutzOtrem | [Link](https://github.com/KrutzOtrem/Trimui-Brick-Overlays) | Brick Overlays |
 | [Add Your Name] | [Link] | [Cores] |
 
