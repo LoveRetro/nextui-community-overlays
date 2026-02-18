@@ -25,7 +25,7 @@ Interested community members are welcome to upload their overlays! To contribute
 These overlays may eventually be included directly with NextUI.
 
 ## Licensing
-The rights to the overlays hosted in this repository stay with their original creators under their respective licenses. If you are a creator, feel free to include a license file in your folder. Users should respect the licenses and terms set by the original authors.
+The rights to the overlays hosted in this repository stay with their original creators under their respective licenses. If you are a creator, feel free to include a license file in your folder. If you download or remix anything in this repository, you are expected to respect the licenses and terms set by the original authors.
 
 ## Credits
 We thank all the creators for their contributions!
@@ -34,5 +34,8 @@ We thank all the creators for their contributions!
 | :--- | :--- | :--- |
 | SkyWalker541 | [Link](https://github.com/SkyWalker541/TrimUI-Brick-Overlays) | Brick Overlays |
 | KrutzOtrem | [Link](https://github.com/KrutzOtrem/Trimui-Brick-Overlays) | Brick Overlays |
+| 1playerinsertcoin | [Link](https://www.reddit.com/user/1playerinsertcoin/submitted) | 480p Overlays |
+| mugwomp_93 | [Link](https://www.reddit.com/r/RG35XX/comments/1ai93ee/perfect_overlays_adapted_for_rg35xx/) | 480p Overlays |
+| drkhrse | [Link](https://github.com/drkhrse/drkhrse_miyoo_bezels) | 480p Overlays |
 | [Add Your Name] | [Link] | [Cores] |
 
